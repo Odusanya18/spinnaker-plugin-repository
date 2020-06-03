@@ -250,5 +250,20 @@
           "url": "https://github.com/spinnaker-plugin-examples/kubernetesCRDHandler/releases/download/v1.0.1/kubernetesCRDHandler-v1.0.1.zip"
         }
       ]
+    },
+    {
+      "id": "odusanya18.drone-ci",
+      "description": "A Drone CI build stage plugin.",
+      "provider": "victor.odusanya@interswitchgroup.com",
+      "releases": [
+        {
+          "version": "0.1.1",
+          "date": "2020-06-03T22:34:07.544Z",
+          "requires": "orca>=8.0.0,deck>=0.0.0",
+          "sha512sum": "c432a98414c70271fca149f1ec5ab02504aba93e4e812e48eedaf3197ec0b4309d0975928c205c4f22cc92e6e310ae431f06b7e3f8819ad22293519329e855a1",
+          "state": "RELEASE",
+          "url": "https://github.com/Odusanya18/droneci-spinnaker-stage/releases/download/v0.1.1/droneci-spinnaker-stage-v0.1.1.zip"
+        }
+      ]
     }
   ]
