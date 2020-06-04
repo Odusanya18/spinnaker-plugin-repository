@@ -257,6 +257,14 @@
       "provider": "victor.odusanya@interswitchgroup.com",
       "releases": [
         {
+          "version": "0.1.2",
+          "date": "2020-06-04T11:34:22.945Z",
+          "requires": "orca>=8.0.0,deck>=0.0.0",
+          "sha512sum": "ddb35cd0d829cc6ef6c3b40eb0aadf3498c2b51d01626bd8d718d89f9eda479b0b8a23436ed709e16a695055988b18f3286ee623a33ff14e3125a01823938e26",
+          "state": "RELEASE",
+          "url": "https://github.com/Odusanya18/droneci-spinnaker-stage/releases/download/v0.1.2/droneci-spinnaker-stage-v0.1.2.zip"
+        },
+        {
           "version": "0.1.1",
           "date": "2020-06-03T22:34:07.544Z",
           "requires": "orca>=0.0.0,deck>=0.0.0",
