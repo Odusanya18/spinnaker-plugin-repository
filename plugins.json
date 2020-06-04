@@ -17,7 +17,7 @@
     {	
       "id": "odusanya18.drone-ci",	
       "description": "A Drone CI build stage plugin.",	
-      "provider": "victor.odusanya@interswitchgroup.com",	
+      "provider": "https://github.com/Odusanya18",	
       "releases": [	
         {	
           "version": "0.1.3",	
