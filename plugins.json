@@ -4,7 +4,7 @@
       "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
       "provider": "https://github.com/spinnaker-plugin-examples",
       "releases": [
-         {
+        {
           "version": "1.1.5",
           "date": "2020-04-30T20:37:01.446Z",
           "requires": "orca>=0.0.0,deck>=0.0.0",
@@ -14,19 +14,27 @@
         }
       ]
     },
-    {		
-      "id": "odusanya18.drone-ci",		
-      "description": "A Drone CI build stage plugin.",		
-      "provider": "https://github.com/Odusanya18",		
-      "releases": [		
-        {		
-          "version": "0.1.3",		
-          "date": "2020-06-04T12:18:23.762Z",		
-          "requires": "orca>=0.0.0,deck>=0.0.0",		
-          "sha512sum": "1c930c73957ca661af66f7729148ecb21b1b889b6db91da8c67aea4811808de0306ad83652ae6c68aef0342ef0c3b72754004838e1019137653adb4188fe3f42",		
-          "state": "RELEASE",		
-          "url": "https://github.com/Odusanya18/droneci-spinnaker-stage/releases/download/v0.1.3/droneci-spinnaker-stage-v0.1.3.zip"		
-        }	
-      ]	
+    {
+      "id": "odusanya18.drone-ci",
+      "description": "A Drone CI build stage plugin.",
+      "provider": "https://github.com/Odusanya18",
+      "releases": [
+        {
+          "version": "0.1.4",
+          "date": "2020-06-14T13:16:49.596Z",
+          "requires": "gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+          "sha512sum": "97c6d1c835e71ee6da9f0eed99aa2d9eb6440c7d9a51fd4f18992ae93c7712ec17892b00e2746f58660c5e3cdd35133d5ec9b1d45a9e66e42efbeb6c69c9adb6",
+          "state": "RELEASE",
+          "url": "https://github.com/Odusanya18/droneci-spinnaker-stage/releases/download/v0.1.4/droneci-spinnaker-stage-v0.1.4.zip"
+        },
+        {
+          "version": "0.1.3",
+          "date": "2020-06-04T12:18:23.762Z",
+          "requires": "orca>=0.0.0,deck>=0.0.0",
+          "sha512sum": "1c930c73957ca661af66f7729148ecb21b1b889b6db91da8c67aea4811808de0306ad83652ae6c68aef0342ef0c3b72754004838e1019137653adb4188fe3f42",
+          "state": "RELEASE",
+          "url": "https://github.com/Odusanya18/droneci-spinnaker-stage/releases/download/v0.1.3/droneci-spinnaker-stage-v0.1.3.zip"
+        }
+      ]
     }
-]
+  ]
