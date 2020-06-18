@@ -20,6 +20,14 @@
       "provider": "https://github.com/Odusanya18",
       "releases": [
         {
+          "version": "0.4.1",
+          "date": "2020-06-18T12:57:43.784Z",
+          "requires": "gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+          "sha512sum": "7be4da5a600f8095f22a42a278096d2754795e47d1c8f421c93bf03341abdf795e5353ccc275864ef00882bb0bb83b34de37f8f0fe3346e7530f644a7bae57da",
+          "state": "RELEASE",
+          "url": "https://github.com/Odusanya18/droneci-spinnaker-stage/releases/download/v0.4.1/droneci-spinnaker-stage-v0.4.1.zip"
+        },
+        {
           "version": "0.4.0",
           "date": "2020-06-18T12:23:12.495Z",
           "requires": "gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
